@@ -1,0 +1,9 @@
+.todo__list {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border: 1px solid lightgray;
+    margin-bottom: 10px !important;
+}
